@@ -1,0 +1,7 @@
+Heitor:100
+Andrade:67
+Enzo:69
+Gabriel:70
+Miguel:24
+
+Heitor:65
